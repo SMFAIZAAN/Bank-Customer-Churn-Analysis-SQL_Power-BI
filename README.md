@@ -256,35 +256,35 @@ LIMIT 10;
 **Tab 1 — Executive Overview**
 KPI cards (10K customers, 2K churned, 20.37% churn rate), churn by country bar chart, churned vs retained donut.
 
-![Executive Overview](screenshots/01_Executive_Overview.png)
+<img width="1841" height="874" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/d81fb03a-31cb-4853-a444-877b3a67f589" />
 
 ---
 
 **Tab 2 — Segment Analysis**
 Churn by age group, churn by gender, churn by products held, avg balance comparison (churned vs retained).
 
-![Segment Analysis](screenshots/02_Segment_Analysis.png)
+<img width="1841" height="857" alt="02_Segment_Analysis" src="https://github.com/user-attachments/assets/1a67347c-8900-4fee-a471-4c33a4a56af9" />
 
 ---
 
 **Tab 3 — Financial Risk**
 Balance at risk KPI ($89.33M), churn rate by balance tier, churn rate by credit score tier.
 
-![Financial Risk](screenshots/03_Financial_Risk.png)
+<img width="1842" height="858" alt="03_Financial_Risk" src="https://github.com/user-attachments/assets/24e39d5d-0b9d-4669-a311-bc9d842c830d" />
 
 ---
 
 **Tab 4 — Risk Score Dashboard**
 Risk distribution donut (682 HIGH / 1,820 MEDIUM / 5,461 LOW), HIGH risk customer table, risk breakdown by country.
 
-![Risk Score Dashboard](screenshots/04_Risk_Score.png)
+<img width="1843" height="879" alt="04_Risk_Score" src="https://github.com/user-attachments/assets/aa68491b-9217-4140-aa24-ce7c4d63dc73" />
 
 ---
 
 **Tab 5 — Retention Action List**
 Filterable table by country and balance range — top retention targets sorted by balance, ready for campaign use.
 
-![Retention Action List](screenshots/05_Retention_Action_List.png)
+<img width="1843" height="877" alt="05_Retention_Action_List" src="https://github.com/user-attachments/assets/61ad963f-10d7-4bd0-9bab-9bb65b1d4bc2" />
 
 ---
 
