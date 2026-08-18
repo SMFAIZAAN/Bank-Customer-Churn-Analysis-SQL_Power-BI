@@ -341,4 +341,4 @@ SOURCE sql/churn_views.sql;
 - Use window functions for percentile-based balance tiers instead of hardcoded CASE thresholds — more robust across different datasets
 - Build a stored procedure for the risk scoring model so updates cascade automatically
 - Include salary-to-balance ratio as an additional churn driver in the risk score — currently an unused signal in the dataset
-- Export the Retention Action List to a scheduled email report via a Python + SMTP layer for automated campaign triggering
+- Export the Retention Action List to a scheduled email report via a Python + SMTP layer for automated campaign triggering.
